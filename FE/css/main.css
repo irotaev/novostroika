@@ -98,7 +98,8 @@
     top: 288px;
     text-align: center;
     text-transform: uppercase;
-    font-family: 'Vollkorn', Serif;
+    font-family: "PT Sans";
+    font-weight: bold;
     font-size: 16px;
     color: black;
     width: 100%;
@@ -110,7 +111,8 @@
     top: 399px;
     text-align: center;
     text-transform: uppercase;
-    font-family: 'Vollkorn', Serif;
+    font-family: "PT Sans";
+    font-weight: bold;
     font-size: 16px;
     color: black;
     width: 100%;
