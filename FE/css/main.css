@@ -19,6 +19,15 @@
     background: url("../images/first-slide/bg.jpg") no-repeat center white;
 }
 
+#first-slide .b-delimeter {
+    position: absolute;
+    width: 100%;
+    height: 54px;
+    margin: auto;
+    bottom: 10px;
+    background: url("../images/2-slide/delimeter.png") no-repeat center transparent;
+}
+
 #first-slide .b-main-text-wrapper {
     position: relative;
     top: 0;
@@ -95,12 +104,11 @@
 
 #text3 {
     position: absolute;
-    top: 288px;
+    top: 278px;
     text-align: center;
     text-transform: uppercase;
-    font-family: "PT Sans";
-    font-weight: bold;
-    font-size: 16px;
+    font-family: "Vollkorn Medium";
+    font-size: 18px;
     color: black;
     width: 100%;
     font-weight: bold;
@@ -108,12 +116,11 @@
 
 #text4 {
     position: absolute;
-    top: 399px;
+    top: 409px;
     text-align: center;
     text-transform: uppercase;
-    font-family: "PT Sans";
-    font-weight: bold;
-    font-size: 16px;
+    font-family: "Vollkorn Medium";
+    font-size: 18px;
     color: black;
     width: 100%;
     font-weight: bold;
@@ -132,7 +139,7 @@
 #fs-hr-left {
     position: absolute;
     top: 313px;
-    left: 130px;
+    left: 100px;
     background: url("../images/first-slide/fs-hr-left.png") no-repeat center;
     width: 43px;
     height: 72px;
@@ -141,7 +148,7 @@
 #fs-hr-right {
     position: absolute;
     top: 313px;
-    right: 130px;
+    right: 100px;
     background: url("../images/first-slide/fs-hr-right.png") no-repeat center;
     width: 43px;
     height: 72px;
